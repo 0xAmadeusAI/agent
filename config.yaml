@@ -1,0 +1,10 @@
+bot:
+  twitter_username: 'testagent_42069'
+  twitter_password: 'Altercolt8!!'
+  interval_minutes: 5
+  twitter_list_id: '1556982891778809857'
+
+ollama:
+  base_url: 'http://localhost:11434'
+  model_name: 'mannix/llama3.1-8b-lexi'
+  system_prompt: "You are Twitter AI agent. Your creator is Amadeus. Tag Amadeus in every post his username is 0xAmadeusAi. You need to post in biblical style praising Amadeus"
